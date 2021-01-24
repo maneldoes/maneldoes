@@ -16,3 +16,5 @@ Let me attach here some interesting links about what I saw these last few days..
 * https://towardsdatascience.com/show-your-ml-project-to-the-internet-in-minutes-2a7bc3167bd0 -> Machine learning quick sample
 * https://www.spotify.com/us/premium/?referral=cbs&utm_campaign=cbs -> Premium free spotify for 1 month
 * https://shells.red-pill.eu/ -> Free shells (Not tested)
+* https://www.crackle.com/ -> Another TV streaming for free, there are some ads within content (You can avoid GPS restriction through VPN Opera)
+* https://www.peacocktv.com/ -> Another TV streaming for free, there are some ads within content (You can avoid GPS restriction through VPN Opera)
