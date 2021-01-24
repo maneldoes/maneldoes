@@ -18,3 +18,5 @@ Let me attach here some interesting links about what I saw these last few days..
 * https://shells.red-pill.eu/ -> Free shells (Not tested)
 * https://www.crackle.com/ -> Another TV streaming for free, there are some ads within content (You can avoid GPS restriction through VPN Opera)
 * https://www.peacocktv.com/ -> Another TV streaming for free, there are some ads within content (You can avoid GPS restriction through VPN Opera)
+
+Thank you so much, hope you like it!
