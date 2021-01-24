@@ -11,6 +11,6 @@ Hello Everyone! Glad you came =) I'm going to post about some interesting things
 Let me attach here some interesting links about what I saw in these last few days...
 
 * https://aruljohn.com/freeshell/ -> Free shells providers to work on (Not tested)
-* https://startbootstrap.com/previews/clean-blog-jekyll -> Another Blog 
+* https://startbootstrap.com/previews/clean-blog-jekyll -> Another blog template, simple and minimalist
+* https://pluto.tv/ -> Free chanels without registration, there is a potential client who is promoting it and it pays my attention about the design, what they offer for free, apparently without ads...
 
-#![First post]({{site.baseurl}}/assets/img/first-post.jpg)
