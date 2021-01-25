@@ -15,8 +15,11 @@ Let me attach here some interesting links about what I saw these last few days..
 * https://pluto.tv/ -> Free chanels without registration, there is a potential client who is promoting it and it pays my attention about the design, what they offer for free, apparently without ads...
 * https://towardsdatascience.com/show-your-ml-project-to-the-internet-in-minutes-2a7bc3167bd0 -> Machine learning quick sample
 * https://www.spotify.com/us/premium/?referral=cbs&utm_campaign=cbs -> Premium free spotify for 1 month
-* https://shells.red-pill.eu/ -> Free shells (Not tested)
-* https://www.crackle.com/ -> Another TV streaming for free, there are some ads within content (You can avoid GPS restriction through VPN Opera)
-* https://www.peacocktv.com/ -> Another TV streaming for free, there are some ads within content (You can avoid GPS restriction through VPN Opera)
+* [Free Shells](https://shells.red-pill.eu/) -> Free shells (Not tested)
+* [Crackle](https://www.crackle.com/) -> Another TV streaming for free, there are some ads within content (You can avoid GPS restriction through VPN Opera)
+* [Peacock](https://www.peacocktv.com/) -> Another TV streaming for free, there are some ads within content (You can avoid GPS restriction through VPN Opera)
+* [BlueStacks](https://www.bluestacks.com/) -> Android emulator for PC and Mac for Free!
+* [SEO Tools](https://cc18clhcpegl4wayrdw6u6pjd9.hop.clickbank.net/) -> Get the tools that you need to make your business rise up
+
 
 Thank you so much, hope you like it!
