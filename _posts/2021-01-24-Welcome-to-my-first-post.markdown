@@ -18,7 +18,7 @@ Let me attach here some interesting links about what I saw these last few days..
 * [Free Shells](https://shells.red-pill.eu/) -> Free shells (Not tested)
 * [Crackle](https://www.crackle.com/) -> Another TV streaming for free, there are some ads within content (You can avoid GPS restriction through VPN Opera)
 * [Peacock](https://www.peacocktv.com/) -> Another TV streaming for free, there are some ads within content (You can avoid GPS restriction through VPN Opera)
-* [BlueStacks](https://www.bluestacks.com/) -> Android emulator for PC and Mac for Free!
+* [BlueStacks](http://gestyy.com/etT400) -> Android emulator for PC and Mac for Free!
 * [SEO Tools](https://cc18clhcpegl4wayrdw6u6pjd9.hop.clickbank.net/) -> Get the tools that you need to make your business rise up
 
 
