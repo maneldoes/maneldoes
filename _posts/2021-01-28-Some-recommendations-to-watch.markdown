@@ -2,7 +2,7 @@
 layout: post
 title: Some series recommendations to watch
 description: # Add post description (optional)
-img: lamonja.jpeg # Add image post (optional)
+img: monja.jpeg # Add image post (optional)
 fig-caption: # Add figcaption (optional)
 tags: [Blog, Series, Horror]
 ---
