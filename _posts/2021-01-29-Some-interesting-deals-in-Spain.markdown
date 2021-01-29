@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Some series recommendations to watch
+title: Some interesting deals in Spain
 description: # Add post description (optional)
 img: promotion.jpg # Add image post (optional)
 fig-caption: # Add figcaption (optional)
