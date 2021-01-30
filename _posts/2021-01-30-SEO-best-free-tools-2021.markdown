@@ -19,6 +19,6 @@ I am not too much into this world, but few people already told me that these too
 * [Screaming Frog](http://gestyy.com/etIrJQ) -> SEO audits website crawler with analyser tools
 * [Pixlr](http://gestyy.com/etIrBC) -> Online editor with hundred tools, really popular!
 * [Google right results](http://gestyy.com/etItqs) -> Analyze if the website could generate good results
-* [Canva](http://gestyy.com/etUWSD) -> Obviously one of the top softwares, and one of my favourite one. You can create really top designs, free but also there are premium content
+* [Canva](http://gestyy.com/etIyEM) -> Obviously one of the top softwares, and one of my favourite one. You can create really top designs, free but also there are premium content
 
 Thank you so much, hope you like it!
