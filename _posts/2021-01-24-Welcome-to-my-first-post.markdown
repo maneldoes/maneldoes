@@ -19,7 +19,7 @@ Let me attach here some interesting links about what I saw these last few days..
 * [Crackle](https://www.crackle.com/) -> Another TV streaming for free, there are some ads within content (You can avoid GPS restriction through VPN Opera)
 * [Peacock](https://www.peacocktv.com/) -> Another TV streaming for free, there are some ads within content (You can avoid GPS restriction through VPN Opera)
 * [BlueStacks](http://gestyy.com/etT400) -> Android emulator for PC and Mac for Free!
-* [SEO Tools](https://cc18clhcpegl4wayrdw6u6pjd9.hop.clickbank.net/) -> Get the tools that you need to make your business rise up
+* [SEO Tools](https://24f7c6jfhf4tbs1pllv5ftbrc1.hop.clickbank.net/?tid=MANELDOES) -> Get the tools that you need to make your business rise up
 
 
 Thank you so much, hope you like it!
