@@ -13,7 +13,8 @@ Let me post a work what couldn't find on internet. I did it because wanted to we
 
 So simple I created a NodeJS, it is getting a JSON, created by web scrapping script in Bash
 
-###NodeJS
+**NodeJS**
+
 {% highlight javascript %}
 var http 	= require('http');
 var fs 		= require('fs');
@@ -36,7 +37,7 @@ console.log("Listening on port " + port );
 open('http://localhost:'+ port);
 {% endhighlight %}
 
-###Bash
+**Bash**
 
 This code is in-line because I did it for crontab =)
 
