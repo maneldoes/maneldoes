@@ -1,8 +1,8 @@
 ---
 layout: post
-title: SEO Best free tools 2021
+title: How to create your own API JSON with Node JS
 description: # Add post description (optional)
-img: seo.png # Add image post (optional)
+img: api.jpg # Add image post (optional)
 fig-caption: # Add figcaption (optional)
 tags: [Blog, Node, JSON, NodeJS]
 ---
