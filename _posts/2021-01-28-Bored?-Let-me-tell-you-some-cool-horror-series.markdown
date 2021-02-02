@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Some series recommendations to watch
+title: Bored? Let me tell you some cool horror series
 description: # Add post description (optional)
 img: monja.jpeg # Add image post (optional)
 fig-caption: # Add figcaption (optional)
