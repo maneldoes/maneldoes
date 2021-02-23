@@ -1,10 +1,10 @@
 ---
 layout: post
-title: How to do multiple posts on LinkedIn
+title: How to schedule multiple posts on LinkedIn
 description: # Add post description (optional)
 img: linkedin.png # Add image post (optional)
 fig-caption: # Add figcaption (optional)
-tags: [Blog, LinkedIn, Multiple, Posts]
+tags: [Blog, LinkedIn, Multiple, Posts, Schedule]
 ---
 
 Hello everyone!
