@@ -17,6 +17,7 @@ Hope this post will blow up your mind
 
 - [Tailwind CSS](http://gestyy.com/et6lIe): Cannot forget about Tailwind CSS... so low-level, it never encourages you to design the same site twice. Even with the same color palette and sizing scale, it's easy to build the same component with a completely different look in the next project
 
+- [Milligram](http://gestyy.com/et6z0Y): Milligram provides a minimal setup of styles for a fast and clean starting point. Just it! Only 2kb gzipped! It's not about a UI framework. Specially designed for better performance and higher productivity with fewer properties to reset resulting in cleaner code
 Hope you enjoyed,
 
 Have a nice day!
